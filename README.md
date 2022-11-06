@@ -1,7 +1,6 @@
 ### Howdy! 🤠
 
 * <a rel="me" href="https://twitter.com/majorhayden">Twitter</a>
-* <a rel="me" href="https://mastodon.social/@majorhayden">Mastodon</a>
 * <a rel="me" href="https://fosstodon.org/@major">Mastodon</a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=major&theme=nord_dark)
